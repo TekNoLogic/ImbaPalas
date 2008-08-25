@@ -1,0 +1,8 @@
+## Interface: 30300
+
+## Title: ImbaPalas
+## Author: Tekkub Stoutwrithe
+## X-Website: http://www.tekkub.net/
+## X-Email: tekkub-wow@googlegroups.com
+
+ImbaPalas.lua
