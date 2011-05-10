@@ -1,8 +1,14 @@
 ## Interface: 30300
 
 ## Title: ImbaPalas
+## Notes: The missing paladin bubble sound effect
 ## Author: Tekkub Stoutwrithe
-## X-Website: http://www.tekkub.net/
+## Version: Alpha
+## X-Website: http://tekkub.net/
 ## X-Email: tekkub-wow@googlegroups.com
+## X-Category: Misc
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
 
 ImbaPalas.lua
